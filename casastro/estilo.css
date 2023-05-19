@@ -1,0 +1,22 @@
+div 
+{
+    padding: 10px;
+    background-color: aliceblue;
+    overflow: hidden;
+}
+input[type=text], txtarea, select 
+{
+    font: 17px Calibri;
+    width: 90%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+input[type=button]
+{
+    font: 17px Calibri;
+    width: auto;
+    float: left;
+    cursor: pointer;
+    padding: 7px;
+}
